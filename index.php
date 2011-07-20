@@ -8,7 +8,8 @@
                 background: #333;
                 color: #999;
                 font: 300 100.01%/1.2 "Segoe UI", "Helvetica Neue", Helvetica, "Arial Unicode", Arial, sans-serif;
-                margin: 0 30px;
+                margin: 0;
+                padding: 0;
             }
           
           	.ui-widget {
